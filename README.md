@@ -1,6 +1,6 @@
 
 <h1 align="center">The Stateless States</h1>
-<h3 align="center"><i>Intelligence Without Frontiers</i></h3>
+<h3 align="center"><i>Intelligence Without Borders</i></h3>
 
 
 **Type:** Conceptual Operating Framework  
