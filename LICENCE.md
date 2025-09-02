@@ -1,6 +1,6 @@
 # Proprietary License
 
-**Copyright (c) 2025 Edward Ferrari / Genesis Systems**  
+**Copyright (c) 2025 Edward Ferrari / Genesis Systems / StatelessStates**  
 **All Rights Reserved**
 
 This software and associated documentation files (the "Software") are the
