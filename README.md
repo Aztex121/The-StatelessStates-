@@ -114,4 +114,4 @@ Supports multiple deployment models:
 For strategic engagement or access to the full manuscript:  
 
 📩 **NordicCircle@proton.me** (NDA required)
-**https://genensis---systems.web.app**
+** **
