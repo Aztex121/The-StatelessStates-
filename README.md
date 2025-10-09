@@ -113,5 +113,5 @@ Supports multiple deployment models:
 ## Contact  
 For strategic engagement or access to the full manuscript:  
 
-📩 **NordicCircle@proton.me** (NDA required)
+📩 **contact@genesis-systems-intl.com** (NDA required)
 ** **
